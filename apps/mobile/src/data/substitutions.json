@@ -1,0 +1,12 @@
+[
+  { "from": "leche", "to": "leche vegetal" },
+  { "from": "mantequilla", "to": "aceite" },
+  { "from": "crema", "to": "yogur" },
+  { "from": "queso", "to": "tofu" },
+  { "from": "huevo", "to": "huevo de linaza" },
+  { "from": "limón", "to": "vinagre" },
+  { "from": "pan rallado", "to": "harina de maíz" },
+  { "from": "harina de trigo", "to": "harina de maíz" },
+  { "from": "sal", "to": "salsa de soja baja en sodio" },
+  { "from": "yogur", "to": "yogur vegetal" }
+]
