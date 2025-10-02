@@ -1,0 +1,77 @@
+[
+  {
+    "id": "pollo-limon-miel",
+    "title": "Pollo al limón y miel",
+    "ingredients": [
+      { "name": "pollo" },
+      { "name": "limón" },
+      { "name": "miel" },
+      { "name": "aceite" },
+      { "name": "sal" }
+    ],
+    "steps": [
+      "Dora el pollo.",
+      "Agrega limón y miel.",
+      "Reduce y sirve."
+    ],
+    "tags": ["rápida"],
+    "timeMinutes": 16,
+    "servings": 2
+  },
+  {
+    "id": "pasta-cremosa-veg",
+    "title": "Pasta cremosa vegetal",
+    "ingredients": [
+      { "name": "pasta" },
+      { "name": "leche" },
+      { "name": "ajo" },
+      { "name": "aceite" },
+      { "name": "sal" }
+    ],
+    "steps": [
+      "Cuece pasta.",
+      "Hierve leche con ajo.",
+      "Mezcla y sirve."
+    ],
+    "tags": ["vegetariana"],
+    "timeMinutes": 14,
+    "servings": 2
+  },
+  {
+    "id": "wok-tofu-verduras",
+    "title": "Wok de tofu y verduras",
+    "ingredients": [
+      { "name": "tofu" },
+      { "name": "pimiento" },
+      { "name": "zanahoria" },
+      { "name": "cebolla" },
+      { "name": "salsa de soja" }
+    ],
+    "steps": [
+      "Saltea tofu y verduras.",
+      "Agrega soja y sirve."
+    ],
+    "tags": ["vegana", "sin gluten"],
+    "timeMinutes": 13,
+    "servings": 2
+  },
+  {
+    "id": "ensalada-quinoa",
+    "title": "Ensalada de quinoa rápida",
+    "ingredients": [
+      { "name": "quinoa cocida" },
+      { "name": "tomate" },
+      { "name": "pepino" },
+      { "name": "limón" },
+      { "name": "aceite" },
+      { "name": "sal" }
+    ],
+    "steps": [
+      "Mezcla la quinoa con verduras.",
+      "Aliña y sirve."
+    ],
+    "tags": ["vegana", "saludable"],
+    "timeMinutes": 9,
+    "servings": 2
+  }
+]

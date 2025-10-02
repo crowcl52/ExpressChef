@@ -1,0 +1,186 @@
+[
+  {
+    "id": "arroz-huevo-sarten",
+    "title": "Arroz con huevo a la sartén",
+    "ingredients": [
+      { "name": "arroz cocido" },
+      { "name": "huevo" },
+      { "name": "cebolla" },
+      { "name": "aceite" },
+      { "name": "sal" }
+    ],
+    "steps": [
+      "Saltea la cebolla picada en aceite.",
+      "Agrega el arroz cocido y mezcla.",
+      "Haz un hueco y añade el huevo.",
+      "Revuelve hasta cuajar.",
+      "Sazona al gusto y sirve."
+    ],
+    "tags": ["rápida", "barata"],
+    "timeMinutes": 12,
+    "servings": 2
+  },
+  {
+    "id": "pasta-tomate-rapida",
+    "title": "Pasta rápida con tomate y ajo",
+    "ingredients": [
+      { "name": "pasta" },
+      { "name": "tomate" },
+      { "name": "ajo" },
+      { "name": "aceite" },
+      { "name": "sal" }
+    ],
+    "steps": [
+      "Cuece la pasta al dente.",
+      "Saltea ajo en aceite.",
+      "Agrega tomate picado y cocina 5 min.",
+      "Mezcla la pasta con la salsa.",
+      "Ajusta sal y sirve."
+    ],
+    "tags": ["rápida", "vegetariana"],
+    "timeMinutes": 15,
+    "servings": 2
+  },
+  {
+    "id": "ensalada-garbanzos",
+    "title": "Ensalada de garbanzos fresca",
+    "ingredients": [
+      { "name": "garbanzos cocidos" },
+      { "name": "tomate" },
+      { "name": "pepino" },
+      { "name": "cebolla" },
+      { "name": "limón" },
+      { "name": "aceite" },
+      { "name": "sal" }
+    ],
+    "steps": [
+      "Mezcla los garbanzos con verduras picadas.",
+      "Aliña con limón, aceite y sal.",
+      "Reposa 5 minutos y sirve."
+    ],
+    "tags": ["vegana", "sin gluten", "rápida"],
+    "timeMinutes": 10,
+    "servings": 2
+  },
+  {
+    "id": "tortilla-zanahoria-cebolla",
+    "title": "Tortilla de zanahoria y cebolla",
+    "ingredients": [
+      { "name": "huevo" },
+      { "name": "zanahoria" },
+      { "name": "cebolla" },
+      { "name": "aceite" },
+      { "name": "sal" }
+    ],
+    "steps": [
+      "Ralla la zanahoria y pica la cebolla.",
+      "Saltea ligeramente y deja templar.",
+      "Bate huevos, integra y cuaja la tortilla.",
+      "Cocina por ambos lados y sirve."
+    ],
+    "tags": ["rápida", "barata"],
+    "timeMinutes": 14,
+    "servings": 2
+  },
+  {
+    "id": "salteado-pollo-verduras",
+    "title": "Salteado de pollo con verduras",
+    "ingredients": [
+      { "name": "pollo" },
+      { "name": "pimiento" },
+      { "name": "cebolla" },
+      { "name": "zanahoria" },
+      { "name": "aceite" },
+      { "name": "sal" }
+    ],
+    "steps": [
+      "Corta el pollo en tiras y saltea.",
+      "Añade verduras en juliana.",
+      "Sazona y cocina 6-8 min.",
+      "Sirve caliente."
+    ],
+    "tags": ["rápida"],
+    "timeMinutes": 15,
+    "servings": 2
+  },
+  {
+    "id": "lentejas-express",
+    "title": "Lentejas express con verduras",
+    "ingredients": [
+      { "name": "lentejas cocidas" },
+      { "name": "zanahoria" },
+      { "name": "cebolla" },
+      { "name": "tomate" },
+      { "name": "aceite" },
+      { "name": "sal" }
+    ],
+    "steps": [
+      "Saltea verduras picadas.",
+      "Agrega lentejas y calienta.",
+      "Sazona y sirve."
+    ],
+    "tags": ["vegana", "barata"],
+    "timeMinutes": 13,
+    "servings": 2
+  },
+  {
+    "id": "tostada-aguacate-huevo",
+    "title": "Tostada de aguacate y huevo",
+    "ingredients": [
+      { "name": "pan" },
+      { "name": "huevo" },
+      { "name": "aguacate" },
+      { "name": "sal" },
+      { "name": "pimienta" }
+    ],
+    "steps": [
+      "Tuesta el pan.",
+      "Aplasta el aguacate y unta.",
+      "Cuece o fríe el huevo.",
+      "Monta y sazona."
+    ],
+    "tags": ["rápida", "desayuno"],
+    "timeMinutes": 9,
+    "servings": 1
+  },
+  {
+    "id": "salteado-arroz-verduras",
+    "title": "Salteado de arroz con verduras",
+    "ingredients": [
+      { "name": "arroz cocido" },
+      { "name": "zanahoria" },
+      { "name": "arvejas" },
+      { "name": "cebolla" },
+      { "name": "aceite" },
+      { "name": "salsa de soja" }
+    ],
+    "steps": [
+      "Saltea verduras.",
+      "Añade arroz y soja.",
+      "Mezcla y sirve."
+    ],
+    "tags": ["vegana", "rápida"],
+    "timeMinutes": 12,
+    "servings": 2
+  },
+  {
+    "id": "ensalada-atun-maiz",
+    "title": "Ensalada de atún y maíz",
+    "ingredients": [
+      { "name": "atún" },
+      { "name": "maíz" },
+      { "name": "tomate" },
+      { "name": "cebolla" },
+      { "name": "aceite" },
+      { "name": "vinagre" },
+      { "name": "sal" }
+    ],
+    "steps": [
+      "Mezcla todos los ingredientes.",
+      "Aliña y sirve."
+    ],
+    "tags": ["rápida"],
+    "timeMinutes": 8,
+    "servings": 2
+  }
+]
